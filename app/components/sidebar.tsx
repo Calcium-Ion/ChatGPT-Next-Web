@@ -124,8 +124,8 @@ export function SideBar(props: { className?: string }) {
           <br />
           <span>GPT-3.5无限制使用，购买Key可用GPT-4</span>
           <br />
-          <a href="https://api.nekoedu.com" target="_blank" rel="noreferrer">
-            点击购买 https://api.nekoedu.com
+          <a href="https://nekoapi.com" target="_blank" rel="noreferrer">
+            点击购买 https://nekoapi.com
           </a>
           <br />
           <br />
