@@ -310,7 +310,7 @@ const cn = {
   Store: {
     DefaultTopic: "新的聊天",
     BotHello:
-      "有什么可以帮你的吗   \n\n本站点无限免费使用gpt-3.5版本，如果需要使用更聪明的gpt-4版本，请到https://nekoapi.com/ 购买\n购买后请打开[设置](/#/settings)填写您的key  [点击查看使用手册](https://ssw9noe1h6.feishu.cn/docx/Dhjbd7Xmpoy6VwxisCAc8K0dnNn)",
+      "有什么可以帮你的吗   \n\n本站点无限免费使用gpt-3.5版本，如果需要使用更聪明的gpt-4版本，请到https://nekoapi.com/ 购买\n购买后请打开[设置](/#/settings)填写您的key",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
